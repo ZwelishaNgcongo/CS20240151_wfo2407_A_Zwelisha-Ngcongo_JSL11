@@ -48,3 +48,5 @@ export const deleteTask = (id) => {
   // Previously: location.reload(); Now: We'll refresh the UI instead.
   return updatedTasks; // Optionally return the updated tasks list for further processing
 };
+
+
